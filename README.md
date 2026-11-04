@@ -1,39 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Tam%20Nguyen%20(horashi)&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
+### 📌 About Me
 
-### 👨‍💻 About Me
+> **Software Engineer | AI Engineer | DevOps**
 
-* 🔭 Tập trung phát triển backend hiệu năng cao, microservices .
-* 🚀 Chuyên sâu hạ tầng Cloud & DevOps: Tự động hóa CI/CD, Containerization, Serverless và IaC.
-* ⚡ Ngôn ngữ & công nghệ yêu thích: Unity, Go, JavaScript / TypeScript, Linux.
-*   📧 Email: thochuhuu@gmail.com
+* 🔭 **Định hướng:** Tập trung phát triển hệ thống backend hiệu năng cao, kiến trúc Microservices và xử lý dữ liệu thời gian thực.
+* 🚀 **Cloud & DevOps:** Chuyên sâu tối ưu hóa hạ tầng Cloud, xây dựng đường ống CI/CD tự động, Containerization và Infrastructure as Code (IaC).
+* ⚡ **Sở thích:** Đam mê tìm hiểu và tối ưu hiệu năng với Rust, Go, TypeScript & Linux.
 
----
-
-### 🏆 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+📫 **Liên hệ:** [Website](https://huutho.com) | [Email](mailto:huuthodev@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skillset
 
-**Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Languages</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Cloud & DevOps</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Certifications
+
+* 🎖️ **AWS Certified Solutions Architect – Associate**
+* 🎖️ **AWS Certified DevOps Engineer – Professional**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chuhuutho&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuhuutho&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
-
-**Cloud & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p># Chu-Huu-Tho
