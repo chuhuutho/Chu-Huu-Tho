@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hữu Thọ</h1>
+<h1 align="center"> Hữu Thọ</h1>
 
 <p align="center">
   <b>Software Engineer | AI Engineer | DevOps</b><br/>
   Xây dựng hệ thống backend hiệu năng cao, tự động hóa hạ tầng và đưa AI vào production.
 </p>
 
-<p align="center">
-  <a href="https://huutho.com"><img src="https://img.shields.io/badge/Website-huutho.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:huuthodev@gmail.com"><img src="https://img.shields.io/badge/Email-huuthodev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=chuhuutho&style=flat-square&color=blue&label=Profile+views" />
-</p>
 
 ---
 
@@ -18,7 +13,7 @@
 * 🔭 **Định hướng:** Phát triển hệ thống backend hiệu năng cao, kiến trúc Microservices và xử lý dữ liệu thời gian thực.
 * ☁️ **Cloud & DevOps:** Tối ưu hạ tầng Cloud, xây dựng CI/CD tự động, Containerization và Infrastructure as Code (IaC).
 * 🤖 **AI Engineering:** Tích hợp và triển khai các hệ thống AI/LLM vào sản phẩm thực tế.
-* ⚡ **Sở thích:** Tìm hiểu và tối ưu hiệu năng với Rust, Go, TypeScript và Linux.
+* ⚡ **Sở thích:** Tìm hiểu và tối ưu hiệu năng với  Go, TypeScript và Linux.
 
 ---
 
